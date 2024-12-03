@@ -1,0 +1,320 @@
+#container1{
+    width:200px;
+    height:200px;
+    background-color: aqua;
+    display: flex;
+    flex-direction:row;
+}
+  #container2{
+    width:200px;
+    height:200px;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+  }  
+
+  #container3{
+    width:200px;
+    height:200px;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction:row-reverse;
+}
+  #container4{
+    width:200px;
+    height:200px;
+    background-color:deepskyblue;
+    display: flex;
+    flex-direction: column-reverse;
+  }  
+  #container5{
+    width:200px;
+    height:200px;
+    background-color: chartreuse;
+    display: flex;
+    flex-direction:wrap;
+}
+  #container6{
+    width:200px;
+    height:200px;
+    background-color: chocolate;
+    display: flex;
+    flex-direction: nowrap;
+  }  
+  #container7{
+    width:200px;
+    height:200px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction:wrap-reverse;
+}
+  #container8{
+    width:200px;
+    height:200px;
+    background-color: bisque;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+  } 
+
+#container9{
+    width:200px;
+    height:200px;
+    background-color:violet;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+  #container10{
+    width:200px;
+    height:200px;
+    background-color: goldenrod;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: end;
+  }  
+
+#container11{
+    width:200px;
+    height:200px;
+    background-color: lawngreen;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-content:end ;
+}
+  #container12{
+    width:200px;
+    height:200px;
+    background-color: lightcoral;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-content: center;
+  }  
+  #container13{
+    width:200px;
+    height:200px;
+    background-color: magenta;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-content: start;
+
+}
+  #container14{
+    width:200px;
+    height:200px;
+    background-color: maroon;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-content: center;
+  }  
+  #container15{
+    width:200px;
+    height:200px;
+    background-color: darkorange;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-content: end;
+}
+  #container16{
+    width:200px;
+    height:200px;
+    background-color: darkgoldenrod;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-content: start;
+  }
+    #container17{
+    width:200px;
+    height:200px;
+    background-color: greenyellow;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+  #container18{
+    width:200px;
+    height:200px;
+    background-color: green;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: start;
+  }  
+
+  #container19{
+    width:200px;
+    height:200px;
+    background-color: aqua;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: end;
+}
+  #container20{
+    width:200px;
+    height:200px;
+    background-color: bisque;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-content: end;
+  }  
+
+
+
+    #container21{
+    width:200px;
+    height:200px;
+    background-color: aqua;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-content: start;
+}
+  #container22{
+    width:200px;
+    height:200px;
+    background-color: bisque;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-content: center;
+  } 
+   #container23{
+    width:200px;
+    height:200px;
+    background-color: aqua;
+    display: flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: start;
+}
+  #container24{
+    width:200px;
+    height:200px;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: end;
+  }  
+
+#container25{
+    width:200px;
+    height:200px;
+    background-color: aqua;
+    display: flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+  #container26{
+    width:200px;
+    height:200px;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-content: center;
+  }  
+  #container27{
+    width:200px;
+    height: 200px;
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content:Start ;
+    align-content:end ;
+  }
+  #container28{
+    width:200px;
+    height:200px;
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content:start;
+    align-content: start;
+  }
+
+  #container29{
+    width: 200px;
+    height:200px;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-content: start;
+  }
+  #container30{
+    width:200px;
+    height:200px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-content: center;
+  }
+  #container31{
+    width: 200px;
+    height:200px;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-content: end;
+  }
+  
+
+
+    
+
+
+
+.item{
+    width:100px;
+    height:100px;
+    background-color: deeppink;
+    color: white;
+    border:1.5px solid black;
+    font-size: 4.5rem;
+    text-align: center;
+}
+    
+
+
+
+
+    
+
+  
